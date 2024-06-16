@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I dream about electric sheep...
+subtitle: I dream of electric sheep...
 
 profile:
   align: right

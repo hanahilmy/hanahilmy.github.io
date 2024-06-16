@@ -3,16 +3,13 @@
     "name": "Hana Ibrahim",
     "label": "Data Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "hana dot hilmy dot ibrahim at fau dot de",
+    "url": "https://hanahilmy.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Bavaria",
+      "countryCode": "DE",
+      "region": "Erlangen"
     },
     "profiles": [
       {

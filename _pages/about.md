@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a data scientist that loves researching. I'm interested in working on multimodal ML, unsupervised learning, explainable AI and new exciting AI directions. I am a highly analytical person and I am a bookworm as well. I have previously primarily worked on computer vision, image processing, explainable AI, process analytics and AI in production processes.
+I'm a Data Scientist / ML Researcher.
+I'm interested in working on multimodal ML, unsupervised learning, explainable AI and new exciting AI directions. 
+I am a highly analytical person and I am a bookworm as well. I have previously primarily worked on computer vision, image processing, explainable AI, process analytics and AI in production processes.
 
 <p>🔭 I’m currently working on kaggle competitions and research.</p>
 <p>📫 How to reach me: hana dot hilmy dot ibrahim at fau dot de</p>

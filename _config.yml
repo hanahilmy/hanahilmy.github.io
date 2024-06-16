@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: hanas-blog # blog_name will be displayed in your blog page
-blog_description: where I ramble on about ML projects, research and cool things that I learn
+blog_description: ML, research and other cool things
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BirdClef 2024
-description: Birds serve as key indicators of biodiversity change due to their mobility and diverse habitat needs, making their population changes reflective of ecosystem health. Traditional bird surveys are costly and challenging, whereas passive acoustic monitoring (PAM) with machine learning enables extensive, high-resolution sampling, crucial for linking restoration efforts to biodiversity outcomes. In this competition, I developed a machine-learning models to identify understudied Indian bird species by their calls, using continuous audio data. This is my first true ML competition. I scored 0.63 while the no. 1 winners scored 0.69.
+description: Birds serve as key indicators of biodiversity change due to their mobility and diverse habitat needs, making their population changes reflective of ecosystem health. In this competition, I developed a machine-learning models to identify understudied Indian bird species by their calls, using continuous audio data. This is my first true ML competition. I scored 0.63 while the no. 1 winners scored 0.69.
 
 img: assets/img/birdclef.jpeg
 importance: 1

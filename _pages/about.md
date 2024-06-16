@@ -22,7 +22,6 @@ I am a highly analytical person and I am a bookworm as well. I have previously p
 
 <p>🔭 I’m currently working on kaggle competitions and research.</p>
 <p>📫 How to reach me: hana dot hilmy dot ibrahim at fau dot de</p>
-<p>⚡ Fun fact: I am left handed</p>
 
 Thank you for learning more about me. I'm always excited to connect with others who share my passions and interests!
 </p>

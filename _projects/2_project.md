@@ -2,7 +2,7 @@
 layout: page
 title: Training a differentially private model for heart disease classification
 
-description: Upcoming: a project with a background image and giscus comments
+description: Upcoming, a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
 category: competitions

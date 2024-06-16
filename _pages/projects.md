@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Academic Projects and Competitions
+title: projects
 permalink: /projects/
 description: Welcome to my Machine Learning Projects page! Here, you'll find a diverse collection of projects with different machine learning techniques. 
 

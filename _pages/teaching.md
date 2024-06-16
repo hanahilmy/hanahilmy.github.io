@@ -18,7 +18,7 @@ Overall grade: 1,2-1,3
   <li>Introduction of Explainable ML (1,7)</li>
 </ul>
 
-<b>Minors: Artificial Intelligence in Biomedical Engineering</b>
+<b>Minors</b>
 <ul>
   <li>Information Theory and Coding (1,0)</li>
   <li>Machine Learning in Signal Processing (1,0)</li>
@@ -27,7 +27,7 @@ Overall grade: 1,2-1,3
 </ul>
 
 
-<b>Application Subjects</b>
+<b>Application Subjects: Artificial Intelligence in Biomedical Engineering</b>
 <ul>
   <li>AI in Medical Robotics (1,0)</li>
   <li>Cognitive Neuroscience for AI Developers (1,0)</li>

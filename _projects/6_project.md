@@ -4,7 +4,7 @@ title: Segmenting Objects Through the Microscope
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 5
+importance: 6
 category: competitions
 ---
 

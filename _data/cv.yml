@@ -11,18 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc.
+    - title: M.Sc. Data Science
       institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-    - title: BSc
+        - Specialization in Machine Learning/Artificial Intelligence
+    - title: B.Sc. Business Informatics
       institution: German University in Cairo, Cairo, Egypt
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Process Analytics Thesis
+        - Machine Learning Seminar
 
 - title: Experience
   type: time_table

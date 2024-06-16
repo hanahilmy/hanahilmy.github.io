@@ -11,16 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc
+    - title: M.Sc.
       institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
       year: 2024
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: BSc
       institution: German University in Cairo, Cairo, Egypt
       year: 2021

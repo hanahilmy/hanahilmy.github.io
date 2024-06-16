@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hana Ibrahim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st September 1999
     - name: Languages
-      value: English, German
+      value: English, Arabic, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+      year: 2024
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BSc
+      institution: German University in Cairo, Cairo, Egypt
+      year: 2021
       description:
         - Description 1.
         - Description 2.

@@ -2,7 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Welcome to my Machine Learning Projects page! Here, you'll find a diverse collection of projects with different machine learning techniques. 
+
 nav: true
 nav_order: 3
 display_categories: [competitions, academic]
@@ -48,7 +49,7 @@ horizontal: true
 {% if page.horizontal %}
 
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
@@ -63,3 +64,4 @@ horizontal: true
   {% endif %}
 {% endif %}
 </div>
+

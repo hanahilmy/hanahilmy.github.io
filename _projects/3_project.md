@@ -2,7 +2,7 @@
 layout: page
 title: Explainable AI in production
 description: a project that redirects to another website
-img: assets/img/production.avif
+img: assets/img/production.jpg
 redirect: https://unsplash.com
 importance: 3
 category: personal

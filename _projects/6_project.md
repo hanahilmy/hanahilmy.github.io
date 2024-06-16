@@ -2,7 +2,7 @@
 layout: page
 title: Segmenting Objects Through the Microscope
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/microscope.jpg
 redirect: https://unsplash.com
 importance: 6
 category: competitions

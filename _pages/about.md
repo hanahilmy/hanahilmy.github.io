@@ -20,7 +20,7 @@ I'm a Data Scientist / ML Researcher.
 I'm interested in working on multimodal ML, unsupervised learning, explainable AI and new exciting AI directions. 
 I am a highly analytical person and I am a bookworm as well. I have previously primarily worked on computer vision, image processing, explainable AI, process analytics and AI in production processes.
 
-<p>🔭 I’m currently working on kaggle competitions and research.</p>
+<p>🔭 I’m currently working on competitions and research.</p>
 <p>📫 How to reach me: hana dot hilmy dot ibrahim at fau dot de</p>
 
 Thank you for learning more about me. I'm always excited to connect with others who share my passions and interests!

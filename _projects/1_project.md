@@ -2,7 +2,7 @@
 layout: page
 title: BirdClef 2024
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/birdclef.jpeg
 importance: 1
 category: competitions
 related_publications: false

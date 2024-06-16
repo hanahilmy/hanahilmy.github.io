@@ -2,7 +2,7 @@
 layout: page
 title: USPTO - Explainable AI for Patent Professionals
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/explainable.jpg
 redirect: https://unsplash.com
 importance: 5
 category: competitions

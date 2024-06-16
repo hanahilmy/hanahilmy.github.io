@@ -3,7 +3,7 @@ layout: page
 title: BirdClef 2024
 description: Birds serve as key indicators of biodiversity change due to their mobility and diverse habitat needs, making their population changes reflective of ecosystem health. In this competition, I developed a machine-learning models to identify understudied Indian bird species by their calls, using continuous audio data. This is my first true ML competition. I scored 0.63 while the no. 1 winners scored 0.69.
 
-img: assets/img/birdclef.jpeg
+img: assets/img/bird.jpeg
 importance: 1
 category: competitions
 related_publications: false

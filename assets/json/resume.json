@@ -5,7 +5,7 @@
     "image": "",
     "email": "hana dot hilmy dot ibrahim at fau dot de",
     "url": "https://hanahilmy.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Data scientist with a strong background in machine learning, computer vision, and process analytics",
     "location": {
       "city": "Bavaria",
       "countryCode": "DE",
@@ -46,13 +46,24 @@
     {
       "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
       "location": "Erlangen, Germany",
-      "url": "hhttps://www.fau.eu/",
+      "url": "https://www.fau.eu/",
       "area": "Data Science, AI/ML Specialization",
       "studyType": "M.Sc.",
       "startDate": "2021-10-01",
       "endDate": "2024-10-01",
       "score": "1,2 (Distinction)",
       "courses": ["Introduction to Explainable AI"]
+    },
+     {
+      "institution": "German University in Cairo, Cairo, Egypt",
+      "location": "Cairo, Egypt",
+      "url": "https://www.guc.edu.eg/",
+      "area": "Business Informatics",
+      "studyType": "B.Sc.",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-01",
+      "score": "2,24 (Overall Very Good with Excellent thesis)",
+      "courses": ["Process Analytics"]
     }
   ],
   "awards": [

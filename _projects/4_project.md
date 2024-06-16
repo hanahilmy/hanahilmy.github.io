@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Explainable AI in production
+title: RSNA 2024 Lumbar Spine Degenerative Classification
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
-category: personal
+importance: 4
+category: competitions
 ---
 
 Every project has a beautiful feature showcase page.

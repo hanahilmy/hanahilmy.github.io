@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+<p style="border=1px">
 I'm a Data Scientist / ML Researcher.
 I'm interested in working on multimodal ML, unsupervised learning, explainable AI and new exciting AI directions. 
 I am a highly analytical person and I am a bookworm as well. I have previously primarily worked on computer vision, image processing, explainable AI, process analytics and AI in production processes.
@@ -25,4 +25,4 @@ I am a highly analytical person and I am a bookworm as well. I have previously p
 <p>⚡ Fun fact: I am left handed</p>
 
 Thank you for learning more about me. I'm always excited to connect with others who share my passions and interests!
-
+</p>
